@@ -1,3 +1,4 @@
+# Example of README.md
 # RstatisticsSeminar
 # thisismyseminar
 ## Hello R
